@@ -13,4 +13,5 @@ tags:
 Indian Woman, short hair
 
 # History
-In charge of the Odyssey and our main contact.
+Director of [[UNSA]]
+In charge of [[The UNS Oddessy]] and our main contact.

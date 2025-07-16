@@ -26,3 +26,6 @@ Equipped with a [[Spike Drive]].
 ## NPCs
 
 [[Colonel Suyin Song]]
+
+# Travels
+First The UNS Oddessy took 20 days to travel to [[Proxima Centauri]].

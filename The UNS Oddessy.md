@@ -12,7 +12,7 @@ Equipped with a [[Spike Drive]] and an Ansible that can contact [[UNSA]] on [[Ea
 <iframe 
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRIqejf0GIYPNRb44_dP4BrDlpVWoaODQEQmceYP2o5rk4vv9NaQJRVGMM0UsZSb-GDoXpFSFTqQLo/pubhtml?widget=true&amp;headers=false"
 height=525
-width=800>
+width=1200>
 </iframe>
 
 # The Crew

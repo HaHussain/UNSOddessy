@@ -14,5 +14,6 @@ Chinese, hair in a bun, basic as hell.
 
 # History
 
-The ship commander, in charge of the safety of the Odyssey.
+The ship commander and our pilot, in charge of the safety of the Odyssey.
+Degree in Astrophysics.
 An army colonel.

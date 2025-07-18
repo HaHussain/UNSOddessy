@@ -12,7 +12,7 @@ tags:
 # Appearance
 
 5'11, oddly lithe, mixed race (French & Haitian), beautiful (very good at makeup), long hair side shave dyed. 
-Constantly in ever changing outfits due to sponsorships., a couple ear piercing industrial.
+Constantly in ever changing outfits due to sponsorships, a couple ear piercings, industrial.
 
 # History
 

@@ -1,5 +1,7 @@
 ---
 tags:
+  - System
+  - Planet
 ---
 **Proxima Centauri** is the nearest star to Earth after the Sun, located 4.25 light-years away in the southern constellation of Centaurus.
 

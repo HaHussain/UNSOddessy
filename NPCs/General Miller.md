@@ -11,7 +11,7 @@ tags:
 *(He / Him)*
 [[Human]]
 # Appearance
-White bald army man.
+White American bald army man.
 
 # History
 General with the US (maybe marines or army?)

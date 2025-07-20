@@ -6,8 +6,7 @@ tags:
   - Person
   - NPC
 ---
-*(She / Her)*
-[[Human]]
+*(She / Her)* [[Human]]
 # Appearance
 
 Chinese, hair in a bun, basic as hell.

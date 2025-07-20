@@ -3,9 +3,10 @@ tags:
   - Person
   - Player
   - VI
+aliases:
+  - Anuli
 ---
-*(Any / It)*
-[[VI]]
+*(Any / They / It)*  [[VI]]
 # Appearance
 
 Humanoid bot. Wood and brass — the vibe is what if a quantum computer was a gramophone was a guy. 

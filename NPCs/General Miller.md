@@ -8,8 +8,7 @@ tags:
   - NPC
   - Person
 ---
-*(He / Him)*
-[[Human]]
+*(He / Him)* [[Human]]
 # Appearance
 White American bald army man.
 

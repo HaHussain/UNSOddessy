@@ -1,14 +1,14 @@
 ---
 aliases:
   - Andrea
+  - Bella
 tags:
   - Person
   - Player
   - Human
   - Psychic
 ---
-*(They / Them)*
-[[Human]]
+*(They / Them)* [[Human]]
 # Appearance
 
 White British, 6ft. Short dyed red hair in an androgynous pixie cut,  brown eyes. 

@@ -2,13 +2,13 @@
 aliases:
   - Cami
   - Camille
+  - Olivia
 tags:
   - Person
   - Player
   - Human
 ---
-*(They / She)*
-[[Human]]
+*(They / She)* [[Human]]
 # Appearance
 
 5’6, Asian woman, 26, hair dyed blue, dark mascara, choker, tattoos, and tied into two thick, long pig tails whenever she’s not wearing chonk space helmets. Has stupid coloured tattoos on her hands and arms of silly shapes and cartoon characters.

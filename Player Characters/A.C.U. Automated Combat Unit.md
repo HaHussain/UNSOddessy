@@ -1,13 +1,13 @@
 ---
 aliases:
   - ACU
+  - Heleyna
 tags:
   - Person
   - Player
   - VI
 ---
-*(It)*
-[[VI]]
+*(It)* [[VI]]
 # Appearance
 
 ### Chassis:

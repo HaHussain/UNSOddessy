@@ -2,6 +2,7 @@
 aliases:
   - Malle
   - DangeR
+  - Hamza
 tags:
   - Person
   - Player

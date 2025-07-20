@@ -7,8 +7,7 @@ tags:
   - NPC
   - Person
 ---
-*(She / Her)*
-[[Human]]
+*(She / Her)* [[Human]]
 # Appearance
 Indian Woman, short hair
 

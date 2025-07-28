@@ -19,6 +19,9 @@ Constantly in ever changing outfits due to sponsorships, a couple ear piercings,
 
 Originally a studying anthropology, started moonlighting as a DJ, while studying their masters, the DJ career really took off and they signed with a popular label and began spinning up albums. Gaining fame and popularity as a top-tier pop-star that does extreme stunts like arctic swimming and deep diving.
 
+Part of the reason Malle Dange is going aboard the mission is to figure out what her Psychic abilities are and where they came from.
+
 # Notes
 
 Before going aboard [[The UNS Oddessy]], announced they will be writing a new album entirely written in space. 
+Clock to make a [[Qhon]] song: 0/4

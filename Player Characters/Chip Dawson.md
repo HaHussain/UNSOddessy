@@ -15,3 +15,7 @@ tags:
 # History
 
 Ships engineer, worked on the [[Spike Drive]]. 
+
+# Notes
+
+From Wyoming

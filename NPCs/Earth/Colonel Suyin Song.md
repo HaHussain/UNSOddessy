@@ -16,3 +16,8 @@ Chinese, hair in a bun, basic as hell.
 The ship commander and our pilot, in charge of the safety of the Odyssey.
 Degree in Astrophysics.
 An army colonel.
+
+# Notes
+
+She's a good cook and cooked for us.
+Wants Alien spices from [[Haven]]

@@ -9,7 +9,7 @@ tags:
   - Human
   - Psychic
 ---
-[[Human]]
+[[Human]] [[Psychic]]
 # Appearance
 
 5'11, oddly lithe, mixed race (French & Haitian), beautiful (very good at makeup), long hair side shave dyed. 
@@ -24,4 +24,5 @@ Part of the reason Malle Dange is going aboard the mission is to figure out what
 # Notes
 
 Before going aboard [[The UNS Oddessy]], announced they will be writing a new album entirely written in space. 
+Performed on [[Haven]] with [[Camille 'Cami' Nangong|Cami]], making 150 Alterian Credits.
 Clock to make a [[Qhon]] song: 0/4

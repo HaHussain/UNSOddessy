@@ -4,6 +4,7 @@ tags:
   - Planet
 aliases:
   - Terra
+  - Sol
 ---
 https://en.wikipedia.org/wiki/Earth
 
